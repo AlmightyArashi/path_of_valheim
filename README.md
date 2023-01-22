@@ -1,2 +1,2 @@
-# path_of_valheim
+# Path of Valheim
 Skill tree mod for Valheim using BepInEx.
